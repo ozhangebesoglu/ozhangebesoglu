@@ -2,7 +2,7 @@ name: Coffee Isometric Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gece yarısı çalış
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,10 +17,11 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
+        env:  # <--- BURASI DEĞİŞTİ (with yerine env oldu)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # <--- BU EKLENDİ
           USERNAME: ${{ github.repository_owner }}
-          # ÖZEL GRUVBOX KAHVE RENK AYARLARI
           SETTING_JSON: |
             {
                 "backgroundColor": "#282828",
@@ -31,10 +32,11 @@ jobs:
                 "radarColor": "#fabd2f",
                 "growingAnimation": true
             }
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated coffee graph"
-          git push origin main:output --force
+          git push origin HEAD:output --force
