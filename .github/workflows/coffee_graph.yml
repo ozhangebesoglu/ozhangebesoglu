@@ -17,21 +17,26 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      
+
+      # ADIM 1: Ayar dosyasını oluştur (Gruvbox Teması)
+      - name: Create Config File
+        run: |
+          echo '{
+              "backgroundColor": "#282828",
+              "foregroundColor": "#504945",
+              "strongColor": "#fb4934",
+              "mediumColor": "#fe8019",
+              "weakColor": "#fabd2f",
+              "radarColor": "#fabd2f",
+              "growingAnimation": true
+          }' > gruvbox_config.json
+
+      # ADIM 2: Grafiği oluştur (Dosya yolunu göstererek)
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:  # <--- BURASI DEĞİŞTİ (with yerine env oldu)
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # <--- BU EKLENDİ
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-                "backgroundColor": "#282828",
-                "foregroundColor": "#504945",
-                "strongColor": "#fb4934",
-                "mediumColor": "#fe8019",
-                "weakColor": "#fabd2f",
-                "radarColor": "#fabd2f",
-                "growingAnimation": true
-            }
+          SETTING_JSON: gruvbox_config.json
 
       - name: Commit & Push
         run: |
