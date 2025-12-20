@@ -3,19 +3,19 @@
   <rect x="110" y="40" width="80" height="100" rx="4" fill="#928374"/>
   <rect x="118" y="48" width="64" height="84" fill="#282828"/>
 
-  <rect x="146" y="10" width="8" height="8" fill="#fb4934" opacity="0.9">
-    <animate attributeName="y" from="10" to="90" dur="1.2s" begin="0s" repeatCount="indefinite" calcMode="discrete"/>
-    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.8;1" dur="1.2s" begin="0s" repeatCount="indefinite" />
+  <rect x="135" y="10" width="8" height="8" fill="#fb4934" opacity="0.8">
+    <animate attributeName="y" from="10" to="85" dur="1.5s" begin="0s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0.8;0.8;0" keyTimes="0;0.8;1" dur="1.5s" begin="0s" repeatCount="indefinite" />
   </rect>
 
-  <rect x="154" y="10" width="8" height="8" fill="#fb4934" opacity="0.9">
-    <animate attributeName="y" from="10" to="90" dur="1.4s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/>
-     <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.8;1" dur="1.4s" begin="0.4s" repeatCount="indefinite" />
+  <rect x="146" y="10" width="8" height="8" fill="#fe8019" opacity="0.9">
+    <animate attributeName="y" from="10" to="85" dur="0.9s" begin="0.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.9;1" dur="0.9s" begin="0.2s" repeatCount="indefinite" />
   </rect>
 
-  <rect x="138" y="10" width="8" height="8" fill="#fb4934" opacity="0.9">
-    <animate attributeName="y" from="10" to="90" dur="1.3s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/>
-     <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.8;1" dur="1.3s" begin="0.8s" repeatCount="indefinite" />
+  <rect x="157" y="10" width="8" height="8" fill="#fb4934" opacity="0.8">
+    <animate attributeName="y" from="10" to="85" dur="1.2s" begin="0.5s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0.8;0.8;0" keyTimes="0;0.8;1" dur="1.2s" begin="0.5s" repeatCount="indefinite" />
   </rect>
 
   <rect x="118" y="112" width="64" height="20" fill="#b8bb26"/>
