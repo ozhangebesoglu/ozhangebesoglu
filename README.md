@@ -58,14 +58,9 @@
 </tr>
 </table>
 <div align="center">
-<a href="https://github.com/ozhangebesoglu">
-</a>
-</div>
-<div align="center">
-
-<a href="https://github.com/ozhangebesoglu">
-</a>
-<img src="https://github.com/ozhangebesoglu/ozhangebesoglu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+<br/>
+<h3 style="color: #fabd2f; margin: 5px 0;">☕ The Daily Grind (Yearly Commit Infrastructure)</h3>
+<img src="https://raw.githubusercontent.com/ozhangebesoglu/ozhangebesoglu/output/profile-3d-contrib/profile-night-green.svg" alt="Coffee Commit Graph" width="100%" />
 <br/><br/>
 <img src="https://img.shields.io/badge/SYSTEM-STANDBY...-fb4934?style=flat-square&logo=archlinux&logoColor=282828"/>
 <a href="https://ozhangebesoglu.com"><img src="https://img.shields.io/badge/LINK-VISIT_PORTFOLIO_WEBSITE-b8bb26?style=flat-square&logo=firefox&logoColor=282828"/></a>
