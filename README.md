@@ -58,26 +58,13 @@
 </tr>
 </table>
 <div align="center">
-<br/>
-<img src="https://img.shields.io/badge/_BTOP-SYSTEM_RESOURCES-282828?style=flat-square&labelColor=928374&color=282828" width="100%"/>
-<br/><br/>
 <a href="https://github.com/ozhangebesoglu">
-<img src="https://github-readme-stats.vercel.app/api?username=ozhangebesoglu&show_icons=true&locale=en&theme=gruvbox&hide_border=true&bg_color=282828&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozhangebesoglu&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&langs_count=6" height="160" />
 </a>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozhangebesoglu&theme=gruvbox&hide_border=true&bg_color=282828" width="90%" />
 </div>
-<br/>
 <div align="center">
-<br/>
-<img src="https://img.shields.io/badge/_BTOP-SYSTEM_RESOURCES-282828?style=flat-square&labelColor=928374&color=282828" width="100%"/>
-<br/><br/>
+
 <a href="https://github.com/ozhangebesoglu">
-<img src="https://github-readme-stats.vercel.app/api?username=ozhangebesoglu&show_icons=true&locale=en&theme=gruvbox&hide_border=true&bg_color=282828&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozhangebesoglu&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&bg_color=282828&langs_count=6" height="160" />
 </a>
-<br/>
 <img src="https://github.com/ozhangebesoglu/ozhangebesoglu/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 <br/><br/>
 <img src="https://img.shields.io/badge/SYSTEM-STANDBY...-fb4934?style=flat-square&logo=archlinux&logoColor=282828"/>
