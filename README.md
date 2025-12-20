@@ -58,9 +58,17 @@
 </tr>
 </table>
 <div align="center">
-<h3 style="color: #fabd2f; margin: 5px 0;">☕ The Daily Grind (Yearly Commit Infrastructure)</h3>
-<img src="https://raw.githubusercontent.com/ozhangebesoglu/ozhangebesoglu/output/profile-3d-contrib/profile-customize.svg" alt="Coffee Commit Graph" width="100%" />
-<br/><br/>  
+<br/>
+<h3 style="color: #fabd2f; margin: 5px 0;">☕ The "Commit Fuel" Reserves (Gruvbox Edition)</h3>
+
+<img src="https://raw.githubusercontent.com/ozhangebesoglu/ozhangebesoglu/main/coffee.svg" alt="Pixel Coffee" width="300" />
+
+<br/>
+<p style="color: #928374; font-family: 'Courier New', monospace; font-size: 12px; margin-top: 10px;">
+(Pixel-art representation of commit activity fuel)
+</p>
+
+<br/>
 <img src="https://img.shields.io/badge/SYSTEM-STANDBY...-fb4934?style=flat-square&logo=archlinux&logoColor=282828"/>
 <a href="https://ozhangebesoglu.com"><img src="https://img.shields.io/badge/LINK-VISIT_PORTFOLIO_WEBSITE-b8bb26?style=flat-square&logo=firefox&logoColor=282828"/></a>
 </div>
