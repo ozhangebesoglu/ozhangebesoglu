@@ -61,7 +61,7 @@
 <br/>
 <h3 style="color: #fabd2f; margin: 5px 0;">☕ The "Commit Fuel" Reserves (Gruvbox Edition)</h3>
 
-<img src="https://raw.githubusercontent.com/ozhangebesoglu/ozhangebesoglu/main/coffee.svg" alt="Pixel Coffee" width="300" />
+<img src="./coffee.svg" alt="Pixel Coffee" width="300" />
 
 <br/>
 <p style="color: #928374; font-family: 'Courier New', monospace; font-size: 12px; margin-top: 10px;">
