@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/_Arch_Linux-MASTER_NODE-fb4934?style=flat-square&logoColor=282828&labelColor=fabd2f" /> <img src="https://img.shields.io/badge/_Workspace-1:_DEV-b8bb26?style=flat-square&logoColor=282828&labelColor=282828&color=b8bb26" /> <img src="https://img.shields.io/badge/_CPU_Usage-HIGH_(Learning)-83a598?style=flat-square&logoColor=282828&labelColor=282828&color=83a598" /> <img src="https://img.shields.io/badge/_Uplink-ONLINE-fe8019?style=flat-square&logoColor=282828&labelColor=282828&color=fe8019" />
 <br/><br/>
-<a href="https://ozhangebesoglu.com"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=EBDBB2&background=28282800&center=true&vCenter=true&width=600&lines=ozhan%40archlinux%3A~%24+init_agent_workflow.sh;%3E+SYSTEM_READY...+Welcome+Observer.;%3E+Loading+Module%3A+FullStack_Dev...;%3E+Loading+Module%3A+Local_LLM_Agent..." alt="Typing SVG" /></a>
+<a href="https://ozhangebesoglu.com"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=EBDBB2&background=28282800&center=true&vCenter=true&width=600&lines=%40archlinux%3A~%24+init_agent_workflow.sh;%3E+SYSTEM_READY...+Welcome+Observer.;%3E+Loading+Module%3A+FullStack_Dev...;%3E+Loading+Module%3A+Local_LLM_Agent..." alt="Typing SVG" /></a>
 </div>
 <br/>
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/_TERMINAL-ozhan@arch-282828?style=flat-square&labelColor=928374&color=282828"/>
 <br/>
 <div style="background-color: #1d2021; padding: 12px; border-radius: 6px; font-family: 'Courier New', monospace; font-size: 13px; color: #ebdbb2; line-height: 1.4; margin-bottom: 10px;">
-<span style="color:#fb4934">ozhan@archlinux</span><br>------------<br>
+<span style="color:#fb4934">ozhan@archlinux</span><br>----------------<br>
 <span style="color:#b8bb26">OS</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux x86_64<br>
 <span style="color:#fabd2f">Host</span>:&nbsp;&nbsp;&nbsp;&nbsp;Casper Excalibur G770<br>
 <span style="color:#83a598">Kernel</span>:&nbsp;&nbsp;DevOps & Backend Arch.<br>
