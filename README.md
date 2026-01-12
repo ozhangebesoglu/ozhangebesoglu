@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/_TERMINAL-ozhan@arch-282828?style=flat-square&labelColor=928374&color=282828"/>
 <br/>
 <div style="background-color: #1d2021; padding: 12px; border-radius: 6px; font-family: 'Courier New', monospace; font-size: 13px; color: #ebdbb2; line-height: 1.4; margin-bottom: 10px;">
-<span style="color:#fb4934">ozhan@archlinux</span><br>----------------<br>
+<span style="color:#fb4934">ozhan@archlinux</span><br>------------<br>
 <span style="color:#b8bb26">OS</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux x86_64<br>
 <span style="color:#fabd2f">Host</span>:&nbsp;&nbsp;&nbsp;&nbsp;Casper Excalibur G770<br>
 <span style="color:#83a598">Kernel</span>:&nbsp;&nbsp;DevOps & Backend Arch.<br>
