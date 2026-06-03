@@ -14,9 +14,9 @@
 <span style="color:#b8bb26">OS</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arch Linux x86_64<br>
 <span style="color:#fabd2f">Host</span>:&nbsp;&nbsp;&nbsp;&nbsp;Casper Excalibur G770<br>
 <span style="color:#83a598">Kernel</span>:&nbsp;&nbsp;DevOps & Backend Arch.<br>
-<span style="color:#d3869b">Uptime</span>:&nbsp;&nbsp;Since 2023 (Student)<br>
+<span style="color:#d3869b">Uptime</span>:&nbsp;&nbsp;Since 2023<br>
 <span style="color:#8ec07c">WM</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyprland (Tiling)<br>
-<span style="color:#fe8019">Shell</span>:&nbsp;&nbsp;&nbsp;ZSH + Oh My Zsh<br>
+<span style="color:#fe8019">Shell</span>:&nbsp;&nbsp;&nbsp;Kishi<br>
 <span style="color:#fb4934">GPU</span>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RTX 3050 Ti (CUDA/AI)<br>
 <span style="color:#b8bb26">Memory</span>:&nbsp;&nbsp;Loading... NestJS, Go
 </div>
@@ -59,13 +59,13 @@
 </table>
 <div align="center">
 <br/>
-<h3 style="color: #fabd2f; margin: 5px 0;">☕ The "Commit Fuel" Reserves (Gruvbox Edition)</h3>
+<h3 style="color: #fabd2f; margin: 5px 0;">The "Commit Fuel"</h3>
 
 <img src="./coffee.svg" alt="Pixel Coffee" width="300" />
 
 <br/>
 <p style="color: #928374; font-family: 'Courier New', monospace; font-size: 12px; margin-top: 10px;">
-(Pixel-art representation of commit activity fuel)
+
 </p>
 
 <br/>
